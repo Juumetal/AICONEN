@@ -1,0 +1,14 @@
+body{
+  font-family: 'corporate-s', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.navbar-brand img{
+  width:80px;
+}
+.nav-item{
+
+}
+.navbar .btn-group{
+  width: 10%;
+}
